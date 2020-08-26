@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Guilherme Samuel and I study of Computer Engineering
 
 <!--
 **GuiSamuka/GuiSamuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
