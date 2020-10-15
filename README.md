@@ -1,7 +1,7 @@
 ### Hi there!! My name is Guilherme Samuel and I study Computer Engineering
 
 - I'm an enthusiast in artificial intelligence algorithms and applied technology 
-- Lately, I've been studying DevOps
+- Lately, I've been studying Machine Learning
 
 
 <!--
