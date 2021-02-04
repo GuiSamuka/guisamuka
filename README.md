@@ -1,7 +1,7 @@
 ### Hi there!! My name is Guilherme Samuel and I study Computer Engineering
 
 - I'm an enthusiast in artificial intelligence algorithms and applied technology 
-- Lately, I've been studying Machine Learning
+- Lately, I have been studying the interaction of Python with astronomical data
 
 
 <!--
