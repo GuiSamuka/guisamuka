@@ -3,6 +3,8 @@
 - I'm an enthusiast in artificial intelligence algorithms and applied technology 
 - Lately, I have been studying the interaction of Python with astronomical data
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SSB&layout=compact&langs_count=32&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-SSB&theme=dark&show_icons=true)
 
 <!--
 **GuiSamuka/GuiSamuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
