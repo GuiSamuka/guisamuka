@@ -1,7 +1,7 @@
 ### Hi there!! My name is Guilherme Samuel and I study Computer Engineering
 
-- I'm an enthusiast in artificial intelligence algorithms and applied technology 
-- Lately, I have been studying the interaction of Python with astronomical data
+- I'm an enthusiast in artificial intelligence algorithms and financial market
+- Lately, I have been studying Web Scraping and Data Engineering with Python
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SSB&layout=compact&langs_count=32&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-SSB&theme=dark&show_icons=true)
